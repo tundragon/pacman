@@ -1,0 +1,17 @@
+terraform.tfstate
+terraform.tfstate.backup
+logs/debug.log
+logs/trace.log
+.terraform/providers/registry.terraform.io/flexibleenginecloud/flexibleengine/1.22.0/windows_amd64/CHANGELOG.md
+.terraform/providers/registry.terraform.io/flexibleenginecloud/flexibleengine/1.22.0/windows_amd64/LICENSE
+.terraform/providers/registry.terraform.io/flexibleenginecloud/flexibleengine/1.22.0/windows_amd64/README.md
+.terraform/providers/registry.terraform.io/flexibleenginecloud/flexibleengine/1.22.0/windows_amd64/terraform-provider-flexibleengine_v1.22.0.exe
+.terraform/modules/modules.json
+.terraform/providers/registry.terraform.io/flexibleenginecloud/flexibleengine/1.21.0/windows_amd64/CHANGELOG.md
+.terraform/providers/registry.terraform.io/flexibleenginecloud/flexibleengine/1.21.0/windows_amd64/LICENSE
+.terraform/providers/registry.terraform.io/flexibleenginecloud/flexibleengine/1.21.0/windows_amd64/README.md
+.terraform/providers/registry.terraform.io/flexibleenginecloud/flexibleengine/1.21.0/windows_amd64/terraform-provider-flexibleengine_v1.21.0.exe
+.terraform.lock.hcl
+.terraform.tfstate.lock.info
+terraform.txt
+workspace.code-workspace
